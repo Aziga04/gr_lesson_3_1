@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">gr_lesson_3_1</string>
     <string name="send">SEND</string>
+    <string name="message">Message</string>
+    <string name="theme">Theme</string>
+    <string name="gmail">ВВедите Gmail</string>
 </resources>
